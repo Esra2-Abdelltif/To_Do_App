@@ -1,16 +1,9 @@
 # to_do_app
 
-A new Flutter application.
+#To_Do_App by Flutter with DarkMode using bloc state mangment and Local DataBase by sqflite package .
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/72301777/171262831-c1f6af69-d5fc-419c-9af7-5016c663df9c.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
