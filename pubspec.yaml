@@ -41,10 +41,15 @@ dependencies:
   conditional_builder: ^1.0.2
   shared_preferences: ^2.0.13
   hexcolor: ^2.0.6
+  flutter_launcher_icons: ^0.9.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assest/todo.jpg"
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
